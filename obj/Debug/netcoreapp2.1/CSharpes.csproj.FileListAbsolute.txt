@@ -1,0 +1,11 @@
+C:\Users\jack chapman\source\repos\CSharpes\bin\Debug\netcoreapp2.1\CSharpes.deps.json
+C:\Users\jack chapman\source\repos\CSharpes\bin\Debug\netcoreapp2.1\CSharpes.runtimeconfig.json
+C:\Users\jack chapman\source\repos\CSharpes\bin\Debug\netcoreapp2.1\CSharpes.runtimeconfig.dev.json
+C:\Users\jack chapman\source\repos\CSharpes\bin\Debug\netcoreapp2.1\CSharpes.dll
+C:\Users\jack chapman\source\repos\CSharpes\bin\Debug\netcoreapp2.1\CSharpes.pdb
+C:\Users\jack chapman\source\repos\CSharpes\obj\Debug\netcoreapp2.1\CSharpes.csproj.CoreCompileInputs.cache
+C:\Users\jack chapman\source\repos\CSharpes\obj\Debug\netcoreapp2.1\CSharpes.AssemblyInfoInputs.cache
+C:\Users\jack chapman\source\repos\CSharpes\obj\Debug\netcoreapp2.1\CSharpes.AssemblyInfo.cs
+C:\Users\jack chapman\source\repos\CSharpes\obj\Debug\netcoreapp2.1\CSharpes.dll
+C:\Users\jack chapman\source\repos\CSharpes\obj\Debug\netcoreapp2.1\CSharpes.pdb
+C:\Users\jack chapman\source\repos\CSharpes\obj\Debug\netcoreapp2.1\CSharpes.csprojAssemblyReference.cache
